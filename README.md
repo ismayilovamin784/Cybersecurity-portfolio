@@ -1,20 +1,10 @@
-# Project Title
+# TryHackMe
 
-## Goal
-What problem or question does this project address?
+- **Profile:** https://tryhackme.com/p/your-username
+- **Current path:** [e.g. Pre Security / Jr Penetration Tester]
+- **Certification goal:** [name], target [Month YYYY]
 
-## Tools & Environment
-- OS / VMs:
-- Tools:
-
-## Steps
-1. ...
-2. ...
-
-## Results & Findings
-What did you discover? Add screenshots (`/images`).
-
-## What I Learned
-Key lessons and what you'd improve next time.
-
-> ⚠️ Only test on systems you own or have permission to test.
+## Completed Rooms / Paths
+| Room / Path | Date | Write-up |
+|---|---|---|
+| Room name | YYYY-MM-DD | [link](../writeups/) |
