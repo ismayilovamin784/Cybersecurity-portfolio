@@ -1,10 +1,7 @@
-# TryHackMe
+# Write-ups
 
-- **Profile:** https://tryhackme.com/p/your-username
-- **Current path:** [e.g. Pre Security / Jr Penetration Tester]
-- **Certification goal:** [name], target [Month YYYY]
+| Date | Title | Platform | Difficulty | Skills |
+|---|---|---|---|---|
+| YYYY-MM-DD | [Title](TEMPLATE.md) | TryHackMe | Easy | Nmap, enumeration |
 
-## Completed Rooms / Paths
-| Room / Path | Date | Write-up |
-|---|---|---|
-| Room name | YYYY-MM-DD | [link](../writeups/) |
+Use [`TEMPLATE.md`](TEMPLATE.md) for every new write-up.
