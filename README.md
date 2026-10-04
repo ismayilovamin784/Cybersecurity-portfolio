@@ -8,8 +8,6 @@
 <a href="#"><img src="https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge" alt="Platform"></a><a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/CONNECT-555555?style=for-the-badge" alt="Connect"></a><a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/NEXT_GOAL-555555?style=for-the-badge" alt="Next goal"></a><a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/TRYHACKME_CERTIFICATION-E31937?style=for-the-badge" alt="TryHackMe certification"></a>
 </p>
 
 <p align="center"><sub>🎓 This portfolio is part of my university application</sub></p>
@@ -24,7 +22,7 @@ I have been interested in cybersecurity since childhood. I used to watch videos 
 
 | | |
 |---|---|
-| **Certificates** | 1 completed, 3 in progress or planned |
+| **Certificates** | 1 completed, 5 in progress or planned |
 | **Learning platforms** | TryHackMe, Coursera, OPSWAT Academy |
 | **Projects** | 3 planned (see below) |
 | **Write-ups** | Coming soon |
@@ -36,7 +34,9 @@ I have been interested in cybersecurity since childhood. I used to watch videos 
 |---|---|---|---|
 | Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed | [Verify](https://learn.opswatacademy.com/certificate/6I98RDBPaw) |
 | Google Cybersecurity Certificate | Coursera | 🔄 In progress (Course 2) | - |
-| TryHackMe certification | TryHackMe | 📅 Planned | - |
+| Pre Security (SEC0) | TryHackMe | 📅 Planned | - |
+| Cyber Security 101 (SEC1) | TryHackMe | 📅 Planned | - |
+| Security Analyst Level 1 (SAL1) | TryHackMe | 📅 Planned | - |
 | CompTIA Security+ | CompTIA | 📅 Planned | - |
 
 Details: [certifications/](certifications/)
@@ -78,11 +78,9 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection
 - [ ] Finish the Google Cybersecurity Certificate (Coursera)
-- [ ] Complete TryHackMe learning paths and certification
+- [ ] Pass TryHackMe Pre Security (SEC0)
+- [ ] Pass TryHackMe Cyber Security 101 (SEC1)
+- [ ] Pass TryHackMe Security Analyst Level 1 (SAL1)
 - [ ] Publish 5+ write-ups
 - [ ] Finish 3 documented projects
-- [ ] Pass CompTIA Security+
-
-## 📫 Contact
-
-LinkedIn: [Amin Ismayilov](https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/) · TryHackMe: [ismayilovamin784](https://tryhackme.com/p/ismayilovamin784) · GitHub: [ismayilovamin784](https://github.com/ismayilovamin784)
+-
