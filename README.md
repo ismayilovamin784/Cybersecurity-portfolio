@@ -2,10 +2,10 @@
 <p align="center"><b>[Amin Ismayilov]</b> · Aspiring cybersecurity professional · Preparing to apply to universities abroad 🎓</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  <img src="https://img.shields.io/badge/Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
-  <img src="https://img.shields.io/badge/Next_Goal-Security%2B-E31937?style=for-the-badge" alt="Security+">
+  <a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Focus"></a>
+  <a href="[TRYHACKME-LINKIN]"><img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
+  <a href="#-certificates"><img src="https://img.shields.io/badge/Next_Goal-Security%2B-E31937?style=for-the-badge" alt="Security+"></a>
 </p>
 
 ---
