@@ -1,5 +1,5 @@
 <h1 align="center">Cybersecurity Portfolio</h1>
-<p align="center"><b>[Your Name]</b> · Aspiring cybersecurity professional · Preparing to apply to universities abroad 🎓</p>
+<p align="center"><b>[Amin Ismayilov]</b> · Aspiring cybersecurity professional · Preparing to apply to universities abroad 🎓</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Focus">
@@ -11,9 +11,8 @@
 ---
 
 ## 👋 Why cybersecurity?
-> *Write 4-5 sentences in your own words: how your interest started, what excites you about security, and what you want to study and achieve at university.*
+ I have been interested in cybersecurity since childhood. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how systems can be broken and, more importantly, how they can be protected. Many of those videos featured people whose data was stolen, and I always wanted to help stop that. Then my mom’s social media account was hacked. Things got personal. I saw how real the damage could be for ordinary people. Since then, I have been sharpening my skills via OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe, and I'm prepping for TryHackMe certifications and CompTIA Security+. I want to gain more knowledge at the university and become a professional to protect people and organizations from cyberattacks.
 
-[Your story here]
 
 ## ⚡ At a glance
 | | |
@@ -71,4 +70,5 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 - [ ] Pass CompTIA Security+
 
 ## 📫 Contact
-Email: [your.email@example.com] · LinkedIn: [link] · TryHackMe: [link]
+Email: [ismayilovamin784@gmail.com] · LinkedIn: [[link](https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/)] · TryHackMe: [[link](https://tryhackme.com/p/ismayilovamin784
+)]
