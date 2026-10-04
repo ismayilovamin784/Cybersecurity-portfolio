@@ -3,11 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Focus: Cybersecurity"></a>
-  <a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
-  <a href="#-certificates"><img src="https://img.shields.io/badge/Next_Goal-TryHackMe_Certification-E31937?style=for-the-badge" alt="Next goal: TryHackMe certification"></a>
+  <a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/Next_Goal-TryHackMe_Certification-E31937?style=for-the-badge" alt="Next goal: TryHackMe certification"></a>
 </p>
-
 ---
 
 ## 👋 Why cybersecurity?
