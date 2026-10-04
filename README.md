@@ -2,10 +2,13 @@
 <p align="center"><b>[Amin Ismayilov]</b> · Aspiring cybersecurity professional · Preparing to apply to universities abroad 🎓</p>
 
 <p align="center">
-  <a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Focus: Cybersecurity"></a>
-  <a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
-  <a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/Next_Goal-TryHackMe_Certification-E31937?style=for-the-badge" alt="Next goal: TryHackMe certification"></a>
+<a href="#"><img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge" alt="Focus"></a><a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/CYBERSECURITY-0A66C2?style=for-the-badge" alt="Cybersecurity"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Platform"></a><a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge" alt="TryHackMe"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/CONNECT-555555?style=for-the-badge" alt="Connect"></a><a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/NEXT_GOAL-555555?style=for-the-badge" alt="Next goal"></a><a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/TRYHACKME_CERTIFICATION-E31937?style=for-the-badge" alt="TryHackMe certification"></a>
 </p>
 ---
 
