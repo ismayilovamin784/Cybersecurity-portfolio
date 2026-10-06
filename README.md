@@ -16,11 +16,8 @@
 
 ## 👋 Why cybersecurity?
 
-I have been interested in cybersecurity since childhood. I used to watch videos about how hackers operate and how cyberattacks happen, and I was fascinated by how systems can be compromised and, more importantly, how to protect them. Many of those videos featured people whose personal data had been stolen, and I always wanted to learn how to help prevent such incidents.
+I have been interested in cybersecurity since childhood. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how systems can be broken and, more importantly, how they can be protected. Many of those videos featured people whose data was stolen, and I always wanted to help stop that. Then my mom's social media account was hacked. Things got personal. I saw how real the damage could be for ordinary people. Since then, I have been sharpening my skills via OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe, and I'm preparing for TryHackMe certifications and CompTIA Security+. I want to gain more knowledge at the university and become a professional to protect people and organizations from cyberattacks.
 
-When my mother’s social media account was hacked, cybersecurity became a personal concern. I witnessed firsthand the serious consequences that cyberattacks can have on individuals. Since that experience, I have developed my skills through OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe. I am also preparing for certifications such as TryHackMe and CompTIA Security+.
-
-I aim to deepen my knowledge at university, develop robust practical and theoretical skills, and ultimately become a cybersecurity professional capable of protecting individuals and organizations from cyberattacks.
 ## ⚡ At a glance
 
 | | |
@@ -86,4 +83,11 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 - [ ] Pass TryHackMe Security Analyst Level 1 (SAL1)
 - [ ] Publish 5+ write-ups
 - [ ] Finish 3 documented projects
--
+- [ ] Pass CompTIA Security+
+
+## 📫 Contact
+
+- 📧 Email: [email@gmail.com]
+- 💼 LinkedIn: [Amin Ismayilov](https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/)
+- 🧪 TryHackMe: [ismayilovamin784](https://tryhackme.com/p/ismayilovamin784)
+- 🐙 GitHub: [ismayilovamin784](https://github.com/ismayilovamin784)
