@@ -33,11 +33,19 @@ I have been interested in cybersecurity since childhood. I used to watch videos 
 | Certificate | Issuer | Status | Proof |
 |---|---|---|---|
 | Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed | [Verify](https://learn.opswatacademy.com/certificate/6I98RDBPaw) |
-| Google Cybersecurity Certificate | Coursera | 🔄 In progress (Course 2) | - |
+| Google Cybersecurity Certificate | Coursera | 🔄 In progress (Course 3 of 8) | - |
 | Pre Security (SEC0) | TryHackMe | 📅 Planned | - |
 | Cyber Security 101 (SEC1) | TryHackMe | 📅 Planned | - |
 | Security Analyst Level 1 (SAL1) | TryHackMe | 📅 Planned | - |
 | CompTIA Security+ | CompTIA | 📅 Planned | - |
+
+### Google Cybersecurity Certificate: course progress
+
+| Course | Status | Notes |
+|---|---|---|
+| 1. Foundations of Cybersecurity | ✅ Completed | [My notes](coursera-google-cybersecurity/course-1-foundations/notes.md) |
+| 2. Play It Safe: Manage Security Risks | ✅ Completed | [My notes](coursera-google-cybersecurity/course-2-manage-security-risks/notes.md) |
+| 3. Connect and Protect: Networks and Network Security | 🔄 In progress | - |
 
 Details: [certifications/](certifications/)
 
