@@ -87,7 +87,7 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 
 ## 📫 Contact
 
-- 📧 Email: [email@gmail.com]
+- 📧 Email: [ismayilovamin784@gmail.com]
 - 💼 LinkedIn: [Amin Ismayilov](https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/)
 - 🧪 TryHackMe: [ismayilovamin784](https://tryhackme.com/p/ismayilovamin784)
 - 🐙 GitHub: [ismayilovamin784](https://github.com/ismayilovamin784)
