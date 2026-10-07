@@ -130,7 +130,7 @@ In Course 2 I moved from basic ideas to how organizations manage risk. I learned
 ### Hands-on activity
 In the hands-on activity I did a security audit for a fictional company, Botium Toys. I reviewed its assets and risks, completed a controls checklist and a compliance checklist (PCI DSS, GDPR and SOC), and wrote recommendations for the IT manager. This showed me how security controls connect to compliance rules and why access control, encryption and backups matter so much.
 
-Full project: [Security Audit for Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/04-botium-toys-security-audit/README.md)
+Full project: [Security Audit for Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/README.md)
 
 ### What was difficult or interesting
 The NIST frameworks were the hardest at first because they have many steps and new terms. What interested me most was how SIEM tools and playbooks help analysts react to incidents in an organized way. [Change this if something else was harder or more interesting for you.]
