@@ -57,7 +57,7 @@ The biggest risks are weak access control (everyone can reach sensitive data), n
 3. **Encryption and detection:** encrypt data at rest and in transit (needed for PCI DSS and GDPR), install an IDS, and prepare disaster recovery plans and backups.
 
 ## Completed checklist
-[Controls and compliance checklist (PDF)](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/botium-controls-and-compliance-checklist.pdf)
+[Controls and compliance checklist (PDF)](./botium-controls-and-compliance-checklist.pdf)
 
 ## What I learned
 In this project I learned how a security audit works step by step: first define the scope and goals, then look at the company's assets and risks, and then check each control and compliance requirement with evidence from the report. I learned that controls come in different kinds (administrative, technical and physical) and that they work together, so one missing control can leave a gap even when others are strong. What surprised me most was that Botium Toys had good physical security and basic protection like a firewall and antivirus, but weak protection for the data itself: no encryption, no backups and too much employee access to customer data. This showed me that a few weak controls can create problems for several rules at once, like PCI DSS, GDPR and SOC. Finally, I practiced turning my findings into clear recommendations, starting with the most important ones: limiting access, using strong passwords with MFA, and encrypting and backing up data.
