@@ -3,7 +3,7 @@
 ## ✅ Introduction to Critical Infrastructure Protection (CIP), OPSWAT Academy
 - **Verify:** https://learn.opswatacademy.com/certificate/6I98RDBPaw
 - **Topics:** critical infrastructure basics, IT vs OT environments, OPSWAT Academy learning path
-- **Completed:** [16.09.2026]
+- **Completed:** 16.09.2026
 - **What I learned:** I learned what critical infrastructure protection (CIP) means and why networks that run essential services, like energy and water, need special protection. I also learned how the OPSWAT Academy certificate program is structured. This course was my first step into industrial and critical infrastructure security, and it showed me that cybersecurity protects not only data but also services people depend on every day.
   
 ## 🔄 Google Cybersecurity Certificate (Coursera), in progress
