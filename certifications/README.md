@@ -7,15 +7,20 @@
 - **What I learned:** I learned what critical infrastructure protection (CIP) means and why networks that run essential services, like energy and water, need special protection. I also learned how the OPSWAT Academy certificate program is structured. This course was my first step into industrial and critical infrastructure security, and it showed me that cybersecurity protects not only data but also services people depend on every day.
   
 ## 🔄 Google Cybersecurity Certificate (Coursera), in progress
-- **Progress:** Courses 1 and 2 completed, Course 3 in progress (8 courses in total)
-- **What I covered so far:** the CIA triad, common attacks and social engineering, data privacy, security frameworks (NIST CSF and RMF), risk management, access control, security audits, SIEM and SOAR tools, incident response and playbooks
-- **My notes:** [coursera-google-cybersecurity/](../coursera-google-cybersecurity/)
+- **What I covered:** -
+- **Summary:** [Short summary of the certificate](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#overall-summary)
 
-| Course | Status | Notes |
-|---|---|---|
-| 1. Foundations of Cybersecurity | ✅ Completed | [Notes](../coursera-google-cybersecurity/course-1-foundations/notes.md) |
-| 2. Play It Safe: Manage Security Risks | ✅ Completed | [Notes](../coursera-google-cybersecurity/course-2-manage-security-risks/notes.md) |
-| 3. Connect and Protect: Networks and Network Security | 🔄 In progress | - |
+| # | Course | Status | Notes |
+|---|---|---|---|
+| 1 | Foundations of Cybersecurity | ✅ Completed | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-1-foundations-of-cybersecurity) |
+| 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-2-play-it-safe-manage-security-risks) |
+| 3 | Connect and Protect: Networks and Network Security | 🔄 In progress | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-3-connect-and-protect-networks-and-network-security) |
+| 4 | Tools of the Trade: Linux and SQL | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-4-tools-of-the-trade-linux-and-sql) |
+| 5 | Assets, Threats, and Vulnerabilities | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-5-assets-threats-and-vulnerabilities) |
+| 6 | Sound the Alarm: Detection and Response | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-6-sound-the-alarm-detection-and-response) |
+| 7 | Automate Cybersecurity Tasks with Python | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-7-automate-cybersecurity-tasks-with-python) |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-8-put-it-to-work-prepare-for-cybersecurity-jobs) |
+| 9 | Accelerate Your Job Search with AI | 📅 Planned | [Notes](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/coursera-google-cybersecurity/coursera-google-cybersecurity/README.md#course-9-accelerate-your-job-search-with-ai) |
 
 ## 📅 Planned
 | Certification | Issuer | Target date |
