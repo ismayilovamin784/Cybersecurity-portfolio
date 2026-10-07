@@ -4,8 +4,8 @@
 - **Verify:** https://learn.opswatacademy.com/certificate/6I98RDBPaw
 - **Topics:** critical infrastructure basics, IT vs OT environments, OPSWAT Academy learning path
 - **Completed:** [16.09.2026]
-- **What I learned:** [2-3 sentences in your own words]
-
+- **What I learned:** I learned what critical infrastructure protection (CIP) means and why networks that run essential services, like energy and water, need special protection. I also learned how the OPSWAT Academy certificate program is structured. This course was my first step into industrial and critical infrastructure security, and it showed me that cybersecurity protects not only data but also services people depend on every day.
+  
 ## 🔄 Google Cybersecurity Certificate (Coursera), in progress
 - **Progress:** Courses 1 and 2 completed, Course 3 in progress (8 courses in total)
 - **What I covered so far:** the CIA triad, common attacks and social engineering, data privacy, security frameworks (NIST CSF and RMF), risk management, access control, security audits, SIEM and SOAR tools, incident response and playbooks
