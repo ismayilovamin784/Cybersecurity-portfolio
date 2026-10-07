@@ -56,6 +56,9 @@ The biggest risks are weak access control (everyone can reach sensitive data), n
 2. **Stronger passwords and MFA:** use a central password manager, require complex passwords and enable multi-factor authentication.
 3. **Encryption and detection:** encrypt data at rest and in transit (needed for PCI DSS and GDPR), install an IDS, and prepare disaster recovery plans and backups.
 
+## Completed checklist
+[Controls and compliance checklist (PDF)](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/botium-controls-and-compliance-checklist.pdf)
+
 ## What I learned
 [Write 3-4 sentences in your own words: for example, what a security audit looks like, how controls map to compliance rules, and what surprised you.]
 
