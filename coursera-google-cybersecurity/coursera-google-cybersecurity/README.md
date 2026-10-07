@@ -75,13 +75,13 @@ The common thread is **social engineering**: attacks often exploit human mistake
 - **Order of volatility**: when collecting digital evidence, the most fragile data should be preserved first.
 
 ### What I learned
-[Write 4-5 sentences in your own words.]
+In Course 1 I learned what cybersecurity really means: protecting networks, devices, people and data from misuse. I learned the CIA triad (confidentiality, integrity and availability), which is a simple way to think about what we are protecting. I also learned that many attacks, like phishing, vishing and USB baiting, are social engineering: they trick people instead of breaking technology. The course also introduced security frameworks, controls and ethics, and showed me what an entry-level security analyst does and which tools they use, such as SIEM.
 
 ### What was difficult or interesting
-[Your reflection]
+The most interesting part for me was social engineering. I used to think hacking was only technical, but I learned that attackers often just manipulate people. The hardest part was remembering all the attack types and their names, so I organized them in a table in my notes. [Change this if something else was harder or more interesting for you.]
 
 ### How I can use this in real life
-[Example: spotting phishing messages, protecting my family's accounts]
+I can use this to protect myself and my family. I can now recognize phishing messages and suspicious links, I understand why strong, unique passwords and two-step verification matter, and I think before sharing personal information online. After my mom's social media account was hacked, I understand better how such attacks work and how to help my family keep their accounts safer.
 
 ---
 
@@ -123,3 +123,14 @@ In short: get ready before a breach happens, sort systems by risk, choose and ap
 
 ### Monitoring and response tools
 - **SIEM** tools
+
+### What I learned
+In Course 2 I moved from basic ideas to how organizations manage risk. I learned the difference between a threat, a vulnerability and a risk, and how organizations use the NIST Cybersecurity Framework (identify, protect, detect, respond, recover) and the NIST Risk Management Framework to organize their security work. I also learned about access control (authentication and authorization), encryption, security audits and why security is a shared responsibility. Finally, I was introduced to SIEM tools (such as Splunk and Chronicle), SOAR, and playbooks that guide a team during incident response.
+
+### Hands-on activity
+In the hands-on activity I did a security audit for a fictional company, Botium Toys. I reviewed its assets and risks, completed a controls checklist and a compliance checklist (PCI DSS, GDPR and SOC), and wrote recommendations for the IT manager. This showed me how security controls connect to compliance rules and why access control, encryption and backups matter so much.
+
+Full project: [Security Audit for Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/04-botium-toys-security-audit/README.md)
+
+### What was difficult or interesting
+The NIST frameworks were the hardest at first because they have many steps and new terms. What interested me most was how SIEM tools and playbooks help analysts react to incidents in an organized way. [Change this if something else was harder or more interesting for you.]
