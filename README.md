@@ -5,7 +5,7 @@
 <p align="center">Aspiring cybersecurity professional 🛡️ Learning, building and preparing to study abroad 🎓</p>
 
 <p align="center">
-<a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Focus: Cybersecurity"></a>
+<a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0A66C2?style=for-the-badge&logoColor=white" alt="Focus: Cybersecurity"></a>
 <a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/PLATFORM-TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Platform: TryHackMe"></a>
 <a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect: LinkedIn"></a>
 </p>
@@ -57,11 +57,11 @@ Details: [certifications/](certifications/)
 
 ## 🎯 Coursera activities
 
-Hands-on activities I completed during the Google Cybersecurity Certificate. All scenarios are fictional and used for practice.
+Hands-on activities from the Google Cybersecurity Certificate. All scenarios are fictional and used for practice. More details: [coursera-google-cybersecurity/](coursera-google-cybersecurity/)
 
 | # | Activity | What it shows | Course | Status |
 |---|---|---|---|---|
-| 1 | [Security Audit: Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/README.md) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
+| 1 | [Security Audit: Botium Toys](coursera-google-cybersecurity/activities/botium-toys-security-audit/) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
 
 ## 📝 Lab write-ups
 
@@ -81,12 +81,12 @@ More: [writeups/](writeups/) · [tryhackme/](tryhackme/)
 
 ## 🧰 Skills
 
-**Learning / practicing:** Linux basics · Networking fundamentals · Security risk management · ICS/OT security fundamentals · Python (basics)
-**Tools:** Nmap · Wireshark · Git/GitHub *(list only tools you have really used)*
+- **Covered in my courses:** security risk management · Linux and SQL basics · Python basics · networking fundamentals · ICS/OT security fundamentals
+- **Tools:** Git and GitHub · learning Nmap and Wireshark
 
 ## 🗓️ Weekly log
 
-Short notes on what I learn every week: [weekly-log/](weekly-log/)
+Milestones and short notes on what I learn: [weekly-log/](weekly-log/)
 
 ## 🗺️ Roadmap
 
@@ -101,7 +101,7 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 
 ## 📫 Contact
 
-- 📧 Email: [ismayilovamin784@gmail.com]
+- 📧 Email: [ismayilovamin784@gmail.com](mailto:ismayilovamin784@gmail.com)
 - 💼 LinkedIn: [Amin Ismayilov](https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/)
 - 🧪 TryHackMe: [ismayilovamin784](https://tryhackme.com/p/ismayilovamin784)
 - 🐙 GitHub: [ismayilovamin784](https://github.com/ismayilovamin784)

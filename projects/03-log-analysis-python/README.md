@@ -14,11 +14,11 @@ Detect suspicious login activity (many failed SSH logins from one IP) in a log f
 python analyze_logs.py sample_auth.log
 ```
 
-## Your tasks (this is what makes it your project)
-1. Read the script and explain each line in your own words
-2. Add a threshold argument (e.g. flag IPs with 5+ failures)
+## Planned work
+1. Read the script and explain each line in my own words
+2. Add a threshold argument (for example, flag IPs with 5 or more failures)
 3. Add output to a CSV file
-4. Write a short conclusion: how would you defend against this (fail2ban, key-based login, rate limiting)?
+4. Write a short conclusion on how to defend against this (fail2ban, key-based login, rate limiting)
 
 ## What I learned
-[Your reflection]
+To be added after I finish the project.

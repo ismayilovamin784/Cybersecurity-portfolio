@@ -2,6 +2,8 @@
 
 My notes in my own words. I do not publish quiz answers or copy course materials.
 
+🏅 [Certificate (PDF)](../certifications/google-cybersecurity-certificate.pdf) · [Verify on Coursera](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4) · 🎯 [Hands-on activities](activities/)
+
 ## Courses
 
 | # | Course | Status | Notes |
@@ -18,11 +20,11 @@ My notes in my own words. I do not publish quiz answers or copy course materials
 
 ## Overall summary
 
-The certificate has nine courses. So far (courses 1 and 2) I learned how security professionals think. Course 1 introduced what we protect (assets, data, people), what threatens it (attackers, social engineering, malware) and the basic goals of security: confidentiality, integrity and availability. Course 2 moved from "what can go wrong" to "how organizations manage it": identifying risks, using frameworks such as NIST, controlling access, auditing, monitoring with SIEM tools and responding with playbooks.
+The certificate has nine courses and covers entry-level security work: risk management, networks, Linux, SQL, detecting and responding to incidents, Python automation and job preparation. I completed all nine on 24 November 2026.
 
-*This summary will be updated as I finish more courses.*
+I have written detailed notes for the first two courses. Course 1 introduced what we protect (assets, data, people), what threatens it (attackers, social engineering, malware) and the basic goals of security: confidentiality, integrity and availability. Course 2 moved from "what can go wrong" to "how organizations manage it": identifying risks, using frameworks such as NIST, controlling access, auditing, monitoring with SIEM tools and responding with playbooks.
 
-**My reflection:** [2-3 sentences: what surprised you, what was most useful]
+Notes for courses 3 to 9 will be added over time.
 
 ---
 
@@ -78,7 +80,7 @@ The common thread is **social engineering**: attacks often exploit human mistake
 In Course 1 I learned what cybersecurity really means: protecting networks, devices, people and data from misuse. I learned the CIA triad (confidentiality, integrity and availability), which is a simple way to think about what we are protecting. I also learned that many attacks, like phishing, vishing and USB baiting, are social engineering: they trick people instead of breaking technology. The course also introduced security frameworks, controls and ethics, and showed me what an entry-level security analyst does and which tools they use, such as SIEM.
 
 ### What was difficult or interesting
-The most interesting part for me was social engineering. I used to think hacking was only technical, but I learned that attackers often just manipulate people. The hardest part was remembering all the attack types and their names, so I organized them in a table in my notes. [Change this if something else was harder or more interesting for you.]
+The most interesting part for me was social engineering. I used to think hacking was only technical, but I learned that attackers often just manipulate people. The hardest part was remembering all the attack types and their names, so I organized them in a table in my notes.
 
 ### How I can use this in real life
 I can use this to protect myself and my family. I can now recognize phishing messages and suspicious links, I understand why strong, unique passwords and two-step verification matter, and I think before sharing personal information online. After my mom's social media account was hacked, I understand better how such attacks work and how to help my family keep their accounts safer.
@@ -122,7 +124,10 @@ In short: get ready before a breach happens, sort systems by risk, choose and ap
 - **Shared responsibility**: everyone in an organization helps reduce risk.
 
 ### Monitoring and response tools
-- **SIEM** tools
+- **SIEM** tools collect and analyze logs. Examples in the course: **Splunk** (Cloud and Enterprise) and **Chronicle**.
+- **SOAR** uses automation to respond to security events faster.
+- **Playbooks** are step-by-step guides for handling a known type of incident.
+- **Incident response** means quickly identifying an attack, containing the damage and fixing the effects.
 
 ### What I learned
 In Course 2 I moved from basic ideas to how organizations manage risk. I learned the difference between a threat, a vulnerability and a risk, and how organizations use the NIST Cybersecurity Framework (identify, protect, detect, respond, recover) and the NIST Risk Management Framework to organize their security work. I also learned about access control (authentication and authorization), encryption, security audits and why security is a shared responsibility. Finally, I was introduced to SIEM tools (such as Splunk and Chronicle), SOAR, and playbooks that guide a team during incident response.
@@ -130,7 +135,7 @@ In Course 2 I moved from basic ideas to how organizations manage risk. I learned
 ### Hands-on activity
 In the hands-on activity I did a security audit for a fictional company, Botium Toys. I reviewed its assets and risks, completed a controls checklist and a compliance checklist (PCI DSS, GDPR and SOC), and wrote recommendations for the IT manager. This showed me how security controls connect to compliance rules and why access control, encryption and backups matter so much.
 
-Full project: [Security Audit for Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/README.md)
+Full project: [Security Audit for Botium Toys](activities/botium-toys-security-audit/README.md)
 
 ### What was difficult or interesting
-The NIST frameworks were the hardest at first because they have many steps and new terms. What interested me most was how SIEM tools and playbooks help analysts react to incidents in an organized way. [Change this if something else was harder or more interesting for you.]
+The NIST frameworks were the hardest at first because they have many steps and new terms. What interested me most was how SIEM tools and playbooks help analysts react to incidents in an organized way.

@@ -16,7 +16,7 @@ Capture and analyze network traffic to understand common protocols and spot unus
 4. Explain what each part of the capture shows
 
 ## Results
-Screenshots and your explanations.
+Screenshots and my explanations will be added when the project is done.
 
 ## What I learned
-[Your reflection]
+To be added after I finish the project.

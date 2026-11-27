@@ -6,7 +6,7 @@
 Build an isolated virtual lab to practice security tools safely.
 
 ## Environment
-- Host OS: [Windows version]
+- Host OS: my own computer
 - Hypervisor: VirtualBox
 - VMs: Kali Linux (attacker), one intentionally vulnerable VM (target)
 - Network: host-only or internal network (isolated from the internet)
@@ -17,10 +17,10 @@ Build an isolated virtual lab to practice security tools safely.
 3. Import the target VM
 4. Configure an isolated network
 5. Test connectivity between VMs (`ping`)
-6. Run a basic `nmap` scan of the target (only inside your lab)
+6. Run a basic `nmap` scan of the target (only inside the lab)
 
 ## Results
-Screenshots (`images/`) and what you found.
+Screenshots and findings will be added when the project is done.
 
 ## What I learned
-[Your reflection]
+To be added after I finish the project.
