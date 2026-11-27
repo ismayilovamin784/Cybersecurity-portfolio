@@ -18,9 +18,9 @@
 
 I've been curious about cybersecurity since I was a kid. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how a system can be broken, and even more by how it can be protected. A lot of those videos were about people who had their data stolen, and I remember thinking I wanted to help stop that someday.
 
-Then it actually happened to me. When I was young, my gaming account got hacked. It might sound small, but it really wasn't to me. I felt awful for days. I eventually managed to fix the problem, but I never forgot how that felt.
+Then it actually happened to me. When I was young, my gaming account got hacked. It might sound small, but it really wasn't to me. That account was something I had put real time and care into, and suddenly it was gone. I felt helpless and sick about it for days, and I couldn't think about anything else. I eventually managed to fix the problem, but I never forgot that feeling.
 
-Later, my mom's social media account was hacked too. That's when it got really personal. Watching it happen to someone close to me showed me how much damage an attack can do to ordinary people, not just to big companies.
+Later, my mom's social media account was hacked too. This time I wasn't just upset, I was worried. I watched someone I love feel violated and stressed over something she couldn't control, and I felt a bit helpless again. That's when I understood that these attacks don't only steal accounts, they take away people's peace of mind, and they hit ordinary people just as hard as big companies.
 
 That's the reason I chose cybersecurity. I don't want other people to go through what my family and I went through. I want to be the one who helps stop these things, or at least helps people protect themselves before something goes wrong.
 
