@@ -54,7 +54,14 @@ Details: [certifications/](certifications/)
 | 1 | [Home Lab](projects/01-home-lab/) | Virtualization, Linux, network setup | 📅 Planned |
 | 2 | [Network Traffic Analysis](projects/02-network-traffic-analysis/) | Wireshark, protocols, analysis | 📅 Planned |
 | 3 | [Log Analysis with Python](projects/03-log-analysis-python/) | Python, detecting suspicious logins | 📅 Planned |
-| 4 | [Security Audit: Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/README.md) | Risk assessment, controls and compliance checklist (fictional scenario) |✅Completed |
+
+## 🎯 Coursera activities
+
+Hands-on activities I completed during the Google Cybersecurity Certificate. All scenarios are fictional and used for practice.
+
+| # | Activity | What it shows | Course | Status |
+|---|---|---|---|---|
+| 1 | [Security Audit: Botium Toys](https://github.com/ismayilovamin784/Cybersecurity-portfolio/blob/main/projects/botium-upload/04-botium-toys-security-audit/README.md) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
 
 ## 📝 Lab write-ups
 
