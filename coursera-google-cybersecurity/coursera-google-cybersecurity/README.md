@@ -8,13 +8,13 @@ My notes in my own words. I do not publish quiz answers or copy course materials
 |---|---|---|---|
 | 1 | Foundations of Cybersecurity | ✅ Completed | [Go to notes](#course-1-foundations-of-cybersecurity) |
 | 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Go to notes](#course-2-play-it-safe-manage-security-risks) |
-| 3 | Connect and Protect: Networks and Network Security | 🔄 In progress | [Go to notes](#course-3-connect-and-protect-networks-and-network-security) |
-| 4 | Tools of the Trade: Linux and SQL | 📅 Planned | [Go to notes](#course-4-tools-of-the-trade-linux-and-sql) |
-| 5 | Assets, Threats, and Vulnerabilities | 📅 Planned | [Go to notes](#course-5-assets-threats-and-vulnerabilities) |
-| 6 | Sound the Alarm: Detection and Response | 📅 Planned | [Go to notes](#course-6-sound-the-alarm-detection-and-response) |
-| 7 | Automate Cybersecurity Tasks with Python | 📅 Planned | [Go to notes](#course-7-automate-cybersecurity-tasks-with-python) |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | 📅 Planned | [Go to notes](#course-8-put-it-to-work-prepare-for-cybersecurity-jobs) |
-| 9 | Accelerate Your Job Search with AI | 📅 Planned | [Go to notes](#course-9-accelerate-your-job-search-with-ai) |
+| 3 | Connect and Protect: Networks and Network Security | ✅ Completed | Notes coming soon |
+| 4 | Tools of the Trade: Linux and SQL | ✅ Completed | Notes coming soon |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | Notes coming soon |
+| 6 | Sound the Alarm: Detection and Response | ✅ Completed | Notes coming soon |
+| 7 | Automate Cybersecurity Tasks with Python | ✅ Completed | Notes coming soon |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Completed | Notes coming soon |
+| 9 | Accelerate Your Job Search with AI | ✅ Completed | Notes coming soon |
 
 ## Overall summary
 

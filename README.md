@@ -28,7 +28,7 @@ Since then I've been learning step by step, from courses, hands-on labs and prac
 
 | | |
 |---|---|
-| **Certificates** | 1 completed, 5 in progress or planned |
+| **Certificates** | 2 completed, 4 planned |
 | **Learning platforms** | TryHackMe, Coursera, OPSWAT Academy |
 | **Projects** | 3 planned (see below) |
 | **Write-ups** | Coming soon |
@@ -39,7 +39,7 @@ Since then I've been learning step by step, from courses, hands-on labs and prac
 | Certificate | Issuer | Status | Proof |
 |---|---|---|---|
 | Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed | [Verify](https://learn.opswatacademy.com/certificate/6I98RDBPaw) |
-| Google Cybersecurity Certificate | Coursera | 🔄 In progress (Course 2) | - |
+| Google Cybersecurity Certificate | Coursera | ✅ Completed | [Verify](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4) |
 | Pre Security (SEC0) | TryHackMe | 📅 Planned | - |
 | Cyber Security 101 (SEC1) | TryHackMe | 📅 Planned | - |
 | Security Analyst Level 1 (SAL1) | TryHackMe | 📅 Planned | - |
@@ -84,7 +84,7 @@ Short notes on what I learn every week: [weekly-log/](weekly-log/)
 ## 🗺️ Roadmap
 
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection
-- [ ] Finish the Google Cybersecurity Certificate (Coursera)
+- [x] Google Cybersecurity Certificate (Coursera)
 - [ ] Pass TryHackMe Pre Security (SEC0)
 - [ ] Pass TryHackMe Cyber Security 101 (SEC1)
 - [ ] Pass TryHackMe Security Analyst Level 1 (SAL1)
