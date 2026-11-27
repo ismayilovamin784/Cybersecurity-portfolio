@@ -16,13 +16,15 @@
 
 ## 👋 Why cybersecurity?
 
-I have been interested in cybersecurity since childhood. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how systems can be broken and, more importantly, how they can be protected. Many of those videos featured people whose data was stolen, and I always wanted to help stop that.
+I've been curious about cybersecurity since I was a kid. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how a system can be broken, and even more by how it can be protected. A lot of those videos were about people who had their data stolen, and I remember thinking I wanted to help stop that someday.
 
-Then it happened to me. As a kid, my gaming account was hacked. It was more than "just a game" to me, and I felt helpless and upset for days. Eventually I managed to work through the problem and recover from it, but I never forgot how that felt. If a single stolen account could hurt that much, I realized how real the damage can be for ordinary people and organizations when their data is attacked.
+Then it actually happened to me. When I was young, my gaming account got hacked. It might sound small, but it really wasn't to me. I felt awful for days. I eventually managed to fix the problem, but I never forgot how that felt.
 
-That experience is why I chose cybersecurity: **I want to make sure fewer people have to go through what I did.** I want to be the person who helps stop these attacks, and who helps people understand how to protect themselves before something goes wrong.
+Later, my mom's social media account was hacked too. That's when it got really personal. Watching it happen to someone close to me showed me how much damage an attack can do to ordinary people, not just to big companies.
 
-Since then, I have been sharpening my skills via OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe, and I'm preparing for TryHackMe certifications and CompTIA Security+. I want to gain more knowledge at university and become a professional who protects people and organizations from cyberattacks.
+That's the reason I chose cybersecurity. I don't want other people to go through what my family and I went through. I want to be the one who helps stop these things, or at least helps people protect themselves before something goes wrong.
+
+Since then I've been learning step by step: OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe. I'm also preparing for the TryHackMe certifications and CompTIA Security+. Now I want to learn much more at university and become a professional who protects people and organizations from cyberattacks.
 
 ## ⚡ At a glance
 
