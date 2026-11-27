@@ -1,16 +1,14 @@
 <h1 align="center">Cybersecurity Portfolio</h1>
 
-<p align="center"><b>Amin Ismayilov</b> · Aspiring cybersecurity professional · Preparing to apply to universities abroad 🎓</p>
+<p align="center"><b>Amin Ismayilov</b></p>
+
+<p align="center">Aspiring cybersecurity professional 🛡️ Learning, building and preparing to study abroad 🎓</p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge" alt="Focus"></a><a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/CYBERSECURITY-0A66C2?style=for-the-badge" alt="Cybersecurity"></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge" alt="Platform"></a><a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CONNECT-555555?style=for-the-badge" alt="Connect"></a><a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://github.com/ismayilovamin784"><img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Focus: Cybersecurity"></a>
+<a href="https://tryhackme.com/p/ismayilovamin784"><img src="https://img.shields.io/badge/PLATFORM-TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Platform: TryHackMe"></a>
+<a href="https://www.linkedin.com/in/amin-ismay%C4%B1lov-8bb154441/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect: LinkedIn"></a>
 </p>
-
-<p align="center"><sub>🎓 This portfolio is part of my university application</sub></p>
 
 ---
 
