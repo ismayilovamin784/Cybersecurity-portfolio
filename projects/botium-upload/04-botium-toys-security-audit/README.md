@@ -49,7 +49,7 @@ Act as an entry-level security analyst and review the security posture of Botium
 
 | Control | Type | In place? | Finding |
 |---|---|---|---|
-| Least privilege | Technical | ❌ No | All employees can access internal data, including customer data |
+| Least privilege | Administrative | ❌ No | All employees can access internal data, including customer data |
 | Disaster recovery plans | Administrative | ❌ No | No plans exist |
 | Password policies | Administrative | ❌ No | A policy exists, but its requirements are too weak |
 | Separation of duties | Administrative | ❌ No | Not implemented |
@@ -57,12 +57,14 @@ Act as an entry-level security analyst and review the security posture of Botium
 | Intrusion detection system (IDS) | Technical | ❌ No | Not installed |
 | Backups | Technical | ❌ No | No backups of critical data |
 | Antivirus software | Technical | ✅ Yes | Installed and monitored regularly |
-| Manual monitoring of legacy systems | Technical | ❌ No | Done, but without a regular schedule or clear intervention steps |
+| Manual monitoring of legacy systems | Administrative | ❌ No | Done, but without a regular schedule or clear intervention steps |
 | Encryption | Technical | ❌ No | Credit card data is not encrypted |
 | Password management system | Technical | ❌ No | No central system to enforce password rules |
 | Locks (office, store, warehouse) | Physical | ✅ Yes | Sufficient locks in place |
 | CCTV | Physical | ✅ Yes | Up to date and working |
 | Fire detection and prevention | Physical | ✅ Yes | Working systems in place |
+
+<sub>Control types: **administrative** controls are policies and procedures, **technical** controls are tools and systems, **physical** controls protect buildings and equipment.</sub>
 
 ## 📋 Compliance assessment
 
