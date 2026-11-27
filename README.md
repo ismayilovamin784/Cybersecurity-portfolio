@@ -16,7 +16,13 @@
 
 ## 👋 Why cybersecurity?
 
-I have been interested in cybersecurity since childhood. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how systems can be broken and, more importantly, how they can be protected. Many of those videos featured people whose data was stolen, and I always wanted to help stop that. Then my mom's social media account was hacked. Things got personal. I saw how real the damage could be for ordinary people. Since then, I have been sharpening my skills via OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe, and I'm preparing for TryHackMe certifications and CompTIA Security+. I want to gain more knowledge at the university and become a professional to protect people and organizations from cyberattacks.
+I have been interested in cybersecurity since childhood. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how systems can be broken and, more importantly, how they can be protected. Many of those videos featured people whose data was stolen, and I always wanted to help stop that.
+
+Then it happened to me. As a kid, my gaming account was hacked. It was more than "just a game" to me, and I felt helpless and upset for days. Eventually I managed to work through the problem and recover from it, but I never forgot how that felt. If a single stolen account could hurt that much, I realized how real the damage can be for ordinary people and organizations when their data is attacked.
+
+That experience is why I chose cybersecurity: **I want to make sure fewer people have to go through what I did.** I want to be the person who helps stop these attacks, and who helps people understand how to protect themselves before something goes wrong.
+
+Since then, I have been sharpening my skills via OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe, and I'm preparing for TryHackMe certifications and CompTIA Security+. I want to gain more knowledge at university and become a professional who protects people and organizations from cyberattacks.
 
 ## ⚡ At a glance
 
