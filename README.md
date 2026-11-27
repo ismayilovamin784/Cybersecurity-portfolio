@@ -24,7 +24,7 @@ Later, my mom's social media account was hacked too. This time I wasn't just ups
 
 That's the reason I chose cybersecurity. I don't want other people to go through what my family and I went through. I want to be the one who helps stop these things, or at least helps people protect themselves before something goes wrong.
 
-Since then I've been learning step by step: OPSWAT Academy, the Google Cybersecurity Certificate on Coursera, and hands-on labs on TryHackMe. I'm also preparing for the TryHackMe certifications and CompTIA Security+. Now I want to learn much more at university and become a professional who protects people and organizations from cyberattacks.
+Since then I've been learning step by step, from courses, hands-on labs and practice. I'm still at the beginning, but I'm learning something new every week. Now I want to learn much more at university and become a professional who protects people and organizations from cyberattacks.
 
 ## ⚡ At a glance
 
