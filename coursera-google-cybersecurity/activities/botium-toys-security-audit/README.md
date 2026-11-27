@@ -10,6 +10,8 @@
 
 [← Back to portfolio](../../../README.md)
 
+📄 **Deliverable:** [Controls and compliance checklist (PDF)](botium-controls-and-compliance-checklist.pdf)
+
 ---
 
 ## 📌 Overview
@@ -101,10 +103,6 @@ A few weak controls affect several rules at once. For example, missing encryptio
 | 1 | **Least privilege and separation of duties:** give employees access only to the data they need for their job, especially customer and card data | Reduces insider risk and supports PCI DSS, GDPR and SOC |
 | 2 | **Stronger passwords and MFA:** use a central password manager, require complex passwords and enable multi-factor authentication | Protects accounts from takeover and supports PCI DSS |
 | 3 | **Encryption and detection:** encrypt data at rest and in transit, install an IDS, and prepare backups and disaster recovery plans | Protects data and speeds up detection and recovery |
-
-## 📎 Deliverable
-
-📄 [Controls and compliance checklist (PDF)](botium-controls-and-compliance-checklist.pdf)
 
 ## 💡 What I learned
 
