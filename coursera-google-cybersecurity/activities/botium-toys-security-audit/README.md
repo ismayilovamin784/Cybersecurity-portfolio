@@ -8,9 +8,13 @@
 <img src="https://img.shields.io/badge/SCENARIO-FICTIONAL-555555?style=for-the-badge" alt="Fictional scenario">
 </p>
 
-📄 **Deliverable:** [Controls and compliance checklist (PDF)](botium-controls-and-compliance-checklist.pdf)
-
 [← Back to portfolio](../../../README.md)
+
+---
+
+## 📄 Deliverable
+
+[Controls and compliance checklist (PDF)](botium-controls-and-compliance-checklist.pdf)
 
 ---
 
