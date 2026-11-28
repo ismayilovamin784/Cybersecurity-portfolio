@@ -61,3 +61,10 @@ The most interesting part for me was social engineering. I used to think hacking
 
 ## How I can use this in real life
 I can use this to protect myself and my family. I can now recognize phishing messages and suspicious links, I understand why strong, unique passwords and two-step verification matter, and I think before sharing personal information online. After my mom's social media account was hacked, I understand better how such attacks work and how to help my family keep their accounts safer.
+
+## Portfolio activity: professional statement
+At the end of this course I wrote a short professional statement that says who I am and why I chose cybersecurity.
+
+> My name is Amin. I got into cybersecurity after my gaming account and, later, my mom's social media account were hacked. I saw how stressful that is for a person, and I want to help stop it from happening to others. I'm curious, I like learning how systems work and how to protect them, and I keep building my skills one step at a time.
+
+Full activity: [Professional Statement](../activities/professional-statement/) · [PDF](../activities/professional-statement/professional-statement-outline.pdf)

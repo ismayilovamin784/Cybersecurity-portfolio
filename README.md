@@ -14,7 +14,9 @@
 
 ## 🧑‍💻 Professional statement
 
-> My name is Amin Ismayilov. I'm driven by a simple goal: helping people stay safe online, because I know how it feels when an account gets hacked. I enjoy learning how systems work and how to protect them, and I keep building my skills step by step through courses and hands-on practice. I'm preparing to study cybersecurity at university abroad, and I want to become a professional who protects both people and organizations.
+> My name is Amin. I got into cybersecurity after my gaming account and, later, my mom's social media account were hacked. I saw how stressful that is for a person, and I want to help stop it from happening to others. I'm curious, I like learning how systems work and how to protect them, and I keep building my skills one step at a time.
+
+[Read the full statement outline →](coursera-google-cybersecurity/activities/professional-statement/)
 
 ---
 
@@ -63,11 +65,12 @@ Details: [certifications/](certifications/)
 
 ## 🎯 Coursera activities
 
-Hands-on activities from the Google Cybersecurity Certificate. All scenarios are fictional and used for practice. More details: [coursera-google-cybersecurity/](coursera-google-cybersecurity/)
+Hands-on activities from the Google Cybersecurity Certificate. Company scenarios are fictional and used for practice. More details: [coursera-google-cybersecurity/](coursera-google-cybersecurity/)
 
 | # | Activity | What it shows | Course | Status |
 |---|---|---|---|---|
-| 1 | [Security Audit: Botium Toys](coursera-google-cybersecurity/activities/botium-toys-security-audit/) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
+| 1 | [Professional Statement](coursera-google-cybersecurity/activities/professional-statement/) | Strengths, values and a short personal statement | Course 1 | ✅ Completed |
+| 2 | [Security Audit: Botium Toys](coursera-google-cybersecurity/activities/botium-toys-security-audit/) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
 
 ## 📝 Lab write-ups
 
