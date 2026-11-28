@@ -46,8 +46,8 @@ Since then I've been learning step by step, from courses, hands-on labs and prac
 
 | Certificate | Issuer | Status | Proof |
 |---|---|---|---|
-| Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed | [Verify](https://learn.opswatacademy.com/certificate/6I98RDBPaw) |
-| Google Cybersecurity Certificate | Coursera | ✅ Completed | [Verify](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4) |
+| Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed | [Verify](https://learn.opswatacademy.com/certificate/6I98RDBPaw) · [PDF](certifications/opswat-cip-certificate.pdf) |
+| Google Cybersecurity Certificate | Coursera | ✅ Completed | [Verify](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4) · [PDF](certifications/google-cybersecurity-certificate.pdf) |
 | Pre Security (SEC0) | TryHackMe | 📅 Planned | - |
 | Cyber Security 101 (SEC1) | TryHackMe | 📅 Planned | - |
 | Security Analyst Level 1 (SAL1) | TryHackMe | 📅 Planned | - |
@@ -90,7 +90,7 @@ More: [writeups/](writeups/) · [tryhackme/](tryhackme/)
 
 ## 🧰 Skills
 
-- **Covered in my courses:** security risk management · Linux and SQL basics · Python basics · networking fundamentals · ICS/OT security fundamentals
+- **Covered in my courses:** security risk management · Linux and SQL basics · Python basics · networking fundamentals · critical infrastructure protection basics
 - **Tools:** Git and GitHub · learning Nmap and Wireshark
 
 ## 🗓️ Weekly log
