@@ -55,5 +55,8 @@ WHERE department = 'Finance' AND last_login < '2026-01-01';
 
 Joins matter because the answer to a security question is often in two places, for example a table of devices and a table of employees.
 
+## Activity in this course
+My portfolio activity (⭐) from this course: [File Permissions in Linux](../activities/linux-file-permissions/). I checked a project directory with `ls -la` and fixed three permission problems with `chmod`.
+
 ## What I learned
 I learned to move around Linux without a graphical interface, read files, search them and manage permissions. I also learned to write SQL queries that filter data and combine tables. These two skills show up in many entry-level security tasks, such as checking logs, looking for a suspicious login or finding which devices a user owns.

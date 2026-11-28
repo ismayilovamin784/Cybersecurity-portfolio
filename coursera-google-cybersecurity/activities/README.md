@@ -11,5 +11,6 @@ Practical activities from the Google Cybersecurity Certificate, all completed. A
 | 5 | [Security Incident Report: Brute Force and Malware](security-incident-report-brute-force/) | Documenting an incident from a packet capture, with a 2FA fix | Course 3 | Hands-on activity |
 | 6 | [Security Risk Assessment: Network Hardening](security-risk-assessment-hardening/) | Choosing firewall, password and MFA hardening measures | Course 3 | Hands-on activity |
 | 7 | [Incident Report Analysis: NIST CSF](incident-report-analysis-nist-csf/) | Applying the five NIST CSF functions to an ICMP flood | Course 3 | ⭐ Portfolio activity |
+| 8 | [File Permissions in Linux](linux-file-permissions/) | Reading permission strings and fixing them with `chmod` | Course 4 | ⭐ Portfolio activity |
 
 [← Back to Google Cybersecurity Certificate notes](../README.md)

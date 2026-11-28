@@ -76,6 +76,7 @@ Hands-on activities from the Google Cybersecurity Certificate. ⭐ marks the cou
 | 5 | [Security Incident Report: Brute Force and Malware](coursera-google-cybersecurity/activities/security-incident-report-brute-force/) | Documenting an incident from a packet capture, with a 2FA fix | Course 3 | Hands-on activity |
 | 6 | [Security Risk Assessment: Network Hardening](coursera-google-cybersecurity/activities/security-risk-assessment-hardening/) | Choosing firewall, password and MFA hardening measures | Course 3 | Hands-on activity |
 | 7 | [Incident Report Analysis: NIST CSF](coursera-google-cybersecurity/activities/incident-report-analysis-nist-csf/) | Applying the five NIST CSF functions to an ICMP flood | Course 3 | ⭐ Portfolio activity |
+| 8 | [File Permissions in Linux](coursera-google-cybersecurity/activities/linux-file-permissions/) | Reading permission strings and fixing them with `chmod` | Course 4 | ⭐ Portfolio activity |
 
 ## 📝 Lab write-ups
 
