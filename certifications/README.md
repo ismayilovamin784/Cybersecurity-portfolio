@@ -11,19 +11,19 @@
 - **Certificate file:** [PDF](google-cybersecurity-certificate.pdf)
 - **Completed:** 24.11.2026
 - **What I covered:** all 9 courses, including security risks and frameworks, networks, Linux and SQL, threats and vulnerabilities, detection and response, Python automation and job preparation
-- **Summary:** [Summary of the certificate](../coursera-google-cybersecurity/README.md#overall-summary)
+- **Summary:** [Summary of the certificate](../coursera-google-cybersecurity/README.md#-overall-summary)
 
 | # | Course | Status | Notes |
 |---|---|---|---|
-| 1 | Foundations of Cybersecurity | ✅ Completed | [Notes](../coursera-google-cybersecurity/README.md#course-1-foundations-of-cybersecurity) |
-| 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Notes](../coursera-google-cybersecurity/README.md#course-2-play-it-safe-manage-security-risks) |
-| 3 | Connect and Protect: Networks and Network Security | ✅ Completed | Notes coming soon |
-| 4 | Tools of the Trade: Linux and SQL | ✅ Completed | Notes coming soon |
-| 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | Notes coming soon |
-| 6 | Sound the Alarm: Detection and Response | ✅ Completed | Notes coming soon |
-| 7 | Automate Cybersecurity Tasks with Python | ✅ Completed | Notes coming soon |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Completed | Notes coming soon |
-| 9 | Accelerate Your Job Search with AI | ✅ Completed | Notes coming soon |
+| 1 | Foundations of Cybersecurity | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/01-foundations-of-cybersecurity.md) |
+| 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/02-manage-security-risks.md) |
+| 3 | Connect and Protect: Networks and Network Security | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/03-networks-and-network-security.md) |
+| 4 | Tools of the Trade: Linux and SQL | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/04-linux-and-sql.md) |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/05-assets-threats-and-vulnerabilities.md) |
+| 6 | Sound the Alarm: Detection and Response | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/06-detection-and-response.md) |
+| 7 | Automate Cybersecurity Tasks with Python | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/07-python-automation.md) |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/08-prepare-for-cybersecurity-jobs.md) |
+| 9 | Accelerate Your Job Search with AI | ✅ Completed | [Notes](../coursera-google-cybersecurity/courses/09-accelerate-your-job-search-with-ai.md) |
 
 ## 📅 Planned
 | Certification | Issuer | Status |

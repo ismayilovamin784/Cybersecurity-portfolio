@@ -1,141 +1,52 @@
-# Google Cybersecurity Certificate (Coursera)
+<h1 align="center">Google Cybersecurity Certificate</h1>
 
-My notes in my own words. I do not publish quiz answers or copy course materials.
+<p align="center"><i>Professional certificate on Coursera · 9 courses · Completed on 24 November 2026</i></p>
 
-🏅 [Certificate (PDF)](../certifications/google-cybersecurity-certificate.pdf) · [Verify on Coursera](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4) · 🎯 [Hands-on activities](activities/)
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=for-the-badge" alt="Status: Completed">
+<img src="https://img.shields.io/badge/COURSES-9_OF_9-0A66C2?style=for-the-badge" alt="Courses: 9 of 9">
+<img src="https://img.shields.io/badge/ISSUER-GOOGLE_·_COURSERA-555555?style=for-the-badge" alt="Issuer: Google on Coursera">
+</p>
 
-## Courses
-
-| # | Course | Status | Notes |
-|---|---|---|---|
-| 1 | Foundations of Cybersecurity | ✅ Completed | [Go to notes](#course-1-foundations-of-cybersecurity) |
-| 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Go to notes](#course-2-play-it-safe-manage-security-risks) |
-| 3 | Connect and Protect: Networks and Network Security | ✅ Completed | Notes coming soon |
-| 4 | Tools of the Trade: Linux and SQL | ✅ Completed | Notes coming soon |
-| 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | Notes coming soon |
-| 6 | Sound the Alarm: Detection and Response | ✅ Completed | Notes coming soon |
-| 7 | Automate Cybersecurity Tasks with Python | ✅ Completed | Notes coming soon |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ✅ Completed | Notes coming soon |
-| 9 | Accelerate Your Job Search with AI | ✅ Completed | Notes coming soon |
-
-## Overall summary
-
-The certificate has nine courses and covers entry-level security work: risk management, networks, Linux, SQL, detecting and responding to incidents, Python automation and job preparation. I completed all nine on 24 November 2026.
-
-I have written detailed notes for the first two courses. Course 1 introduced what we protect (assets, data, people), what threatens it (attackers, social engineering, malware) and the basic goals of security: confidentiality, integrity and availability. Course 2 moved from "what can go wrong" to "how organizations manage it": identifying risks, using frameworks such as NIST, controlling access, auditing, monitoring with SIEM tools and responding with playbooks.
-
-Notes for courses 3 to 9 will be added over time.
+[← Back to portfolio](../README.md)
 
 ---
 
-## Course 1: Foundations of Cybersecurity
+## 🏅 Proof
 
-**Status:** ✅ Completed
+- 📄 [Certificate (PDF)](../certifications/google-cybersecurity-certificate.pdf)
+- ✅ [Verify on Coursera](https://coursera.org/verify/professional-cert/4B1F0IYW6MI4)
+- 🎯 [Hands-on activities](activities/)
 
-### Big picture
-Security is about protecting networks, devices, people and data from unauthorized access and misuse. Everything starts with understanding **assets** (what has value), **threats** (what could harm them) and who the **threat actors** are (hackers, hacktivists, insiders).
+## 📚 Courses
 
-### The CIA triad
-| Principle | In my words |
-|---|---|
-| Confidentiality | Only the right people can see the data |
-| Integrity | The data is correct and has not been tampered with |
-| Availability | Authorized people can reach the data when they need it |
+| # | Course | What it covers | Status | Notes |
+|---|---|---|---|---|
+| 1 | Foundations of Cybersecurity | Core ideas, common attacks, tools | ✅ Completed | [Read](courses/01-foundations-of-cybersecurity.md) |
+| 2 | Play It Safe: Manage Security Risks | Risk, NIST frameworks, controls, playbooks | ✅ Completed | [Read](courses/02-manage-security-risks.md) |
+| 3 | Connect and Protect: Networks and Network Security | TCP/IP, firewalls, VPNs, intrusions, hardening | ✅ Completed | [Read](courses/03-networks-and-network-security.md) |
+| 4 | Tools of the Trade: Linux and SQL | Bash, permissions, SQL queries and joins | ✅ Completed | [Read](courses/04-linux-and-sql.md) |
+| 5 | Assets, Threats, and Vulnerabilities | Asset security, encryption, vulnerabilities, threat modeling | ✅ Completed | [Read](courses/05-assets-threats-and-vulnerabilities.md) |
+| 6 | Sound the Alarm: Detection and Response | Incident lifecycle, packet analysis, IDS and SIEM | ✅ Completed | [Read](courses/06-detection-and-response.md) |
+| 7 | Automate Cybersecurity Tasks with Python | Python basics, regular expressions, files, debugging | ✅ Completed | [Read](courses/07-python-automation.md) |
+| 8 | Put It to Work: Prepare for Cybersecurity Jobs | Escalation, communication, ethics, AI in security | ✅ Completed | [Read](courses/08-prepare-for-cybersecurity-jobs.md) |
+| 9 | Accelerate Your Job Search with AI | Career planning and interview practice with AI tools | ✅ Completed | [Read](courses/09-accelerate-your-job-search-with-ai.md) |
 
-### Common attacks and tactics
-| Attack | In my words |
-|---|---|
-| Phishing | Tricking people by message or email into giving data or running malware |
-| Spear phishing | Phishing aimed at a specific person or group, pretending to be someone they trust |
-| Business email compromise | Impersonating a known sender to get money |
-| Vishing | The same trick over phone or voice calls |
-| Social media phishing | Collecting details about a target online before attacking |
-| Watering hole | Compromising a website that a target group often visits |
-| USB baiting | Leaving an infected USB drive for someone to plug in |
-| Physical social engineering | Pretending to be an employee or vendor to enter a building |
-| Supply-chain attack | Attacking a weak point in the software or hardware that organizations rely on |
-| Password and cryptographic attacks | Trying to break into accounts or weaken secure communication |
-| Adversarial AI | Using or manipulating AI to make attacks more efficient |
+## 🧭 How the courses fit together
 
-The common thread is **social engineering**: attacks often exploit human mistakes rather than technical flaws.
+| Stage | Courses | Question it answers |
+|---|---|---|
+| Foundations | 1 and 2 | What are we protecting, and how do organizations manage risk? |
+| Technical base | 3 and 4 | How do networks, Linux and databases work? |
+| Threats and defense | 5 and 6 | Where are the weaknesses, and how do we detect and respond to attacks? |
+| Automation and career | 7, 8 and 9 | How do I automate work, communicate and get started in the field? |
 
-### Data and privacy
-- **PII**: information that can identify a person. **SPII** is the more sensitive kind and needs stricter handling.
-- **PHI**: health-related information about a person. In the US, HIPAA is the law that protects it.
-- **Privacy protection** means keeping personal information from being misused.
+## 📝 Overall summary
 
-### Frameworks, controls and ethics
-- **Security frameworks** give organizations a structure for planning how to reduce risk; **NIST CSF** is a voluntary example.
-- **Security controls** are the specific safeguards that reduce a risk.
-- **Security governance** and **security ethics** guide how decisions are made, including acting responsibly with sensitive data.
-- **OWASP** is a non-profit that works on improving software security.
+The certificate covers entry-level security work from start to finish. It begins with the basic goals of security (confidentiality, integrity and availability) and how organizations manage risk with frameworks such as NIST. It then builds the technical base: how networks carry data and get attacked, how to work in Linux and query databases with SQL. After that it looks at assets, vulnerabilities and threats, and at how analysts detect and respond to incidents with IDS and SIEM tools. The last courses add Python automation, professional skills such as escalation and communication, and job search preparation.
 
-### Tools and skills introduced
-- **SIEM** collects and analyzes logs to watch for suspicious activity. **IDS** alerts on possible intrusions. A **packet sniffer** captures and analyzes network traffic.
-- **Logs** record what happens in a system.
-- Skills mentioned: Linux, SQL and programming basics, plus transferable skills from other areas of life.
-- **Order of volatility**: when collecting digital evidence, the most fragile data should be preserved first.
-
-### What I learned
-In Course 1 I learned what cybersecurity really means: protecting networks, devices, people and data from misuse. I learned the CIA triad (confidentiality, integrity and availability), which is a simple way to think about what we are protecting. I also learned that many attacks, like phishing, vishing and USB baiting, are social engineering: they trick people instead of breaking technology. The course also introduced security frameworks, controls and ethics, and showed me what an entry-level security analyst does and which tools they use, such as SIEM.
-
-### What was difficult or interesting
-The most interesting part for me was social engineering. I used to think hacking was only technical, but I learned that attackers often just manipulate people. The hardest part was remembering all the attack types and their names, so I organized them in a table in my notes.
-
-### How I can use this in real life
-I can use this to protect myself and my family. I can now recognize phishing messages and suspicious links, I understand why strong, unique passwords and two-step verification matter, and I think before sharing personal information online. After my mom's social media account was hacked, I understand better how such attacks work and how to help my family keep their accounts safer.
+The certificate states that graduates are competent in beginner-level Python, Linux, SQL, SIEM tools and intrusion detection systems, and know how to identify common risks, threats and vulnerabilities and how to reduce them.
 
 ---
 
-## Course 2: Play It Safe: Manage Security Risks
-
-**Status:** ✅ Completed
-
-### Big picture
-Risk management means finding what could go wrong, deciding how serious it is and reducing the damage.
-- **Threat**: anything that could harm an asset
-- **Vulnerability**: a weakness a threat can use
-- **Risk**: the chance that an asset's confidentiality, integrity or availability is harmed
-- **Risk mitigation**: having procedures ready to reduce the impact quickly
-
-Threats can be **internal** (employees, vendors, partners) or **external** (outsiders). **Attack vectors** are the paths attackers use. **Ransomware** is one example: attackers lock data and demand payment.
-
-### NIST Cybersecurity Framework: five functions
-1. **Identify**: understand the risks to people, assets and data
-2. **Protect**: put policies, training and tools in place
-3. **Detect**: find possible incidents quickly through monitoring
-4. **Respond**: contain and analyze incidents and improve afterwards
-5. **Recover**: return systems to normal operation
-
-### NIST Risk Management Framework: seven steps
-Prepare → Categorize → Select → Implement → Assess → Authorize → Monitor
-
-In short: get ready before a breach happens, sort systems by risk, choose and apply controls, check that the controls work, take responsibility for the remaining risk and keep watching. NIST also publishes **SP 800-53**, a detailed set of security controls used by U.S. federal systems.
-
-### Access and data protection
-- **Authentication** proves who you are; **authorization** decides what you may access.
-- **Biometrics** use physical traits (like fingerprints) for authentication.
-- **Encryption** turns readable data into an encoded form so only the right people can read it.
-
-### Audits, posture and responsibility
-- A **security audit** reviews controls, policies and procedures against a set of expectations.
-- **Security posture** is how well an organization can defend its critical assets and adapt to change.
-- **Business continuity** means staying productive through plans for disasters and recovery.
-- **Shared responsibility**: everyone in an organization helps reduce risk.
-
-### Monitoring and response tools
-- **SIEM** tools collect and analyze logs. Examples in the course: **Splunk** (Cloud and Enterprise) and **Chronicle**.
-- **SOAR** uses automation to respond to security events faster.
-- **Playbooks** are step-by-step guides for handling a known type of incident.
-- **Incident response** means quickly identifying an attack, containing the damage and fixing the effects.
-
-### What I learned
-In Course 2 I moved from basic ideas to how organizations manage risk. I learned the difference between a threat, a vulnerability and a risk, and how organizations use the NIST Cybersecurity Framework (identify, protect, detect, respond, recover) and the NIST Risk Management Framework to organize their security work. I also learned about access control (authentication and authorization), encryption, security audits and why security is a shared responsibility. Finally, I was introduced to SIEM tools (such as Splunk and Chronicle), SOAR, and playbooks that guide a team during incident response.
-
-### Hands-on activity
-In the hands-on activity I did a security audit for a fictional company, Botium Toys. I reviewed its assets and risks, completed a controls checklist and a compliance checklist (PCI DSS, GDPR and SOC), and wrote recommendations for the IT manager. This showed me how security controls connect to compliance rules and why access control, encryption and backups matter so much.
-
-Full project: [Security Audit for Botium Toys](activities/botium-toys-security-audit/README.md)
-
-### What was difficult or interesting
-The NIST frameworks were the hardest at first because they have many steps and new terms. What interested me most was how SIEM tools and playbooks help analysts react to incidents in an organized way.
+<sub>My notes are in my own words. I do not publish quiz answers or copy course materials. The "Official page" links point to the public course descriptions on Coursera.</sub>
