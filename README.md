@@ -12,6 +12,12 @@
 
 ---
 
+## 🧑‍💻 Professional statement
+
+> My name is Amin Ismayilov. I'm driven by a simple goal: helping people stay safe online, because I know how it feels when an account gets hacked. I enjoy learning how systems work and how to protect them, and I keep building my skills step by step through courses and hands-on practice. I'm preparing to study cybersecurity at university abroad, and I want to become a professional who protects both people and organizations.
+
+---
+
 ## 👋 Why cybersecurity?
 
 I've been curious about cybersecurity since I was a kid. I used to watch videos about how hackers work and how attacks happen, and I was fascinated by how a system can be broken, and even more by how it can be protected. A lot of those videos were about people who had their data stolen, and I remember thinking I wanted to help stop that someday.
