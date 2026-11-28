@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=for-the-badge" alt="Status: Completed">
 <img src="https://img.shields.io/badge/COURSE-FOUNDATIONS-0A66C2?style=for-the-badge" alt="Course 1: Foundations of Cybersecurity">
-<img src="https://img.shields.io/badge/TYPE-PERSONAL-555555?style=for-the-badge" alt="Type: Personal">
+<img src="https://img.shields.io/badge/TYPE-PORTFOLIO_ACTIVITY-E3A008?style=for-the-badge" alt="Type: Portfolio activity">
 </p>
 
 [← Back to portfolio](../../../README.md)

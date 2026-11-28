@@ -65,12 +65,17 @@ Details: [certifications/](certifications/)
 
 ## 🎯 Coursera activities
 
-Hands-on activities from the Google Cybersecurity Certificate. Company scenarios are fictional and used for practice. More details: [coursera-google-cybersecurity/](coursera-google-cybersecurity/)
+Hands-on activities from the Google Cybersecurity Certificate. ⭐ marks the course's portfolio activities. Company scenarios are fictional and used for practice. More details: [coursera-google-cybersecurity/](coursera-google-cybersecurity/)
 
-| # | Activity | What it shows | Course | Status |
+| # | Activity | What it shows | Course | Type |
 |---|---|---|---|---|
-| 1 | [Professional Statement](coursera-google-cybersecurity/activities/professional-statement/) | Strengths, values and a short personal statement | Course 1 | ✅ Completed |
-| 2 | [Security Audit: Botium Toys](coursera-google-cybersecurity/activities/botium-toys-security-audit/) | Risk assessment, controls and compliance checklist | Course 2 | ✅ Completed |
+| 1 | [Professional Statement](coursera-google-cybersecurity/activities/professional-statement/) | Strengths, values and a short personal statement | Course 1 | ⭐ Portfolio activity |
+| 2 | [Security Audit: Botium Toys](coursera-google-cybersecurity/activities/botium-toys-security-audit/) | Risk assessment, controls and compliance checklist | Course 2 | Hands-on activity |
+| 3 | [Cybersecurity Incident Report: SYN Flood](coursera-google-cybersecurity/activities/network-attack-analysis-syn-flood/) | Identifying a DoS attack and how the TCP handshake is abused | Course 3 | Hands-on activity |
+| 4 | [Network Traffic Analysis: DNS and ICMP](coursera-google-cybersecurity/activities/network-traffic-analysis-dns-icmp/) | Reading a tcpdump log to find why a site is unreachable | Course 3 | Hands-on activity |
+| 5 | [Security Incident Report: Brute Force and Malware](coursera-google-cybersecurity/activities/security-incident-report-brute-force/) | Documenting an incident from a packet capture, with a 2FA fix | Course 3 | Hands-on activity |
+| 6 | [Security Risk Assessment: Network Hardening](coursera-google-cybersecurity/activities/security-risk-assessment-hardening/) | Choosing firewall, password and MFA hardening measures | Course 3 | Hands-on activity |
+| 7 | [Incident Report Analysis: NIST CSF](coursera-google-cybersecurity/activities/incident-report-analysis-nist-csf/) | Applying the five NIST CSF functions to an ICMP flood | Course 3 | ⭐ Portfolio activity |
 
 ## 📝 Lab write-ups
 

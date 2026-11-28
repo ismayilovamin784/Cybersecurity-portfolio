@@ -52,5 +52,16 @@ Hardening means reducing the ways a system can be attacked.
 - **Cloud hardening:** the provider and the customer share responsibility, so the customer still has to configure access and settings safely.
 - **Brute force attacks** are slowed down by strong passwords, MFA and limits on login attempts.
 
+## Activities in this course
+Five hands-on activities came from this course. The last one is a portfolio activity (⭐).
+
+| Activity | What it shows |
+|---|---|
+| [Cybersecurity Incident Report: SYN Flood](../activities/network-attack-analysis-syn-flood/) | Spotting a DoS attack and explaining how it abuses the TCP handshake |
+| [Network Traffic Analysis: DNS and ICMP](../activities/network-traffic-analysis-dns-icmp/) | Reading a `tcpdump` log to find why a website could not be reached |
+| [Security Incident Report: Brute Force and Malware](../activities/security-incident-report-brute-force/) | Documenting a compromised website and recommending 2FA |
+| [Security Risk Assessment: Network Hardening](../activities/security-risk-assessment-hardening/) | Choosing firewall, password and MFA hardening measures |
+| ⭐ [Incident Report Analysis: NIST CSF](../activities/incident-report-analysis-nist-csf/) | Applying the five NIST CSF functions to an ICMP flood |
+
 ## What I learned
 This course connected the theory from the first two courses to real infrastructure. I learned how data moves across the TCP/IP layers, what firewalls, VPNs, proxies and security zones are for, and how common attacks such as DoS and IP spoofing work. The most useful idea for me was hardening: many attacks succeed because a system was left with default settings or unneeded services, so good basic configuration blocks a lot of them.
